@@ -1,8 +1,4 @@
-# =====================================================
-# Season-wise LightGBM Regression for PM2.5 (Retraining Edition)
-# 4 separate CSVs (Summer, Winter, Monsoon, Post-Monsoon)
-# NO station dummies — Optimized for City-Wide Grid Prediction
-# =====================================================
+
 
 import pandas as pd
 import numpy as np
