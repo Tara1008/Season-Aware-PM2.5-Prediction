@@ -1,0 +1,13 @@
+.venv/
+useless/
+data/
+final_sent.zip
+desktop.ini
+data_processing/trial_1/
+data_processing/stations.csv
+final/__pycache__/
+final/pkl_res/
+training/trial_1
+training/trial_2
+training/trial_4
+training/trial_3/rf_results/
